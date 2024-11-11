@@ -1,0 +1,1 @@
+var json_GerejaKaranglewasLor_25 = {"type":"FeatureCollection","name":"GerejaKaranglewasLor_25","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","GKI":"GKI Karanglewas Lor"},"geometry":{"type":"Point","coordinates":[109.200828901910498,-7.420677076405955]}}]}

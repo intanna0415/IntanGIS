@@ -1,0 +1,1 @@
+var json_SPBU_21 = {"type":"FeatureCollection","name":"SPBU_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","SPBU":"SPBU Pertamina 44.531.23 Karanglewas"},"geometry":{"type":"Point","coordinates":[109.204459874434804,-7.420955933422487]}}]}

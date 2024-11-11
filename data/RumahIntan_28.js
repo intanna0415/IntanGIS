@@ -1,0 +1,1 @@
+var json_RumahIntan_28 = {"type":"FeatureCollection","name":"RumahIntan_28","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","RmhIntan":"Rumah Intan"},"geometry":{"type":"Point","coordinates":[109.208514614929925,-7.426991242476086]}}]}

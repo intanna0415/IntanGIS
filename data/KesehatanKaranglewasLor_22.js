@@ -1,0 +1,1 @@
+var json_KesehatanKaranglewasLor_22 = {"type":"FeatureCollection","name":"KesehatanKaranglewasLor_22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Kesehatan":"Rumah Sakit Umum Hermina Purwokerto"},"geometry":{"type":"Point","coordinates":[109.202654406890815,-7.420572216213576]}}]}

@@ -1,0 +1,1 @@
+var json_AdministrasiKaranglewasLor_26 = {"type":"FeatureCollection","name":"AdministrasiKaranglewasLor_26","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Admnstrasi":"Kantor Kelurahan Karanglewas Lor"},"geometry":{"type":"Point","coordinates":[109.200909288828015,-7.421298395180337]}}]}

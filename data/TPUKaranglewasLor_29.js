@@ -1,0 +1,1 @@
+var json_TPUKaranglewasLor_29 = {"type":"FeatureCollection","name":"TPUKaranglewasLor_29","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","TPU":"TPU Karnaglewas Lor"},"geometry":{"type":"Point","coordinates":[109.197223750338296,-7.420618207348808]}}]}
