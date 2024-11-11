@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function () {
   // Ambil semua link dalam navbar, termasuk yang di dalam dropdown
   const linksEl = document.querySelectorAll(
-    '.navbar a, .collapse-content a, .btn-peta'
+    '.navbar a, .collapse-content a, .btn-peta a'
   );
 
   linksEl.forEach((link) => {
